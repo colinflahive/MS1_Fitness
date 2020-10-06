@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato");
+
+body {
+  background-color: #0a0236;
+  font-family: Lato;
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar-brand img {
+  height: 60px;
+}
+
+.navbarNAV {
+  text-align: right;
+  float: right;
+}
+
+.nav-item a:hover {
+  border-bottom: 1px solid #777777;
+}
+
+.active {
+  border-bottom: 1px solid #777777;
+}
+
+h1.logo {
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  color: #fafafa;
+  font-family: bangers;
+}
+
+h1.logo span {
+  color: #eb2a2a;
+}
+
+.banner {
+  background-color: rgb(204, 106, 106);
+  display: flex;
+  justify-content: space-between;
+}
+
+#cta-buttons .btn {
+  float: right;
+  clear: both;
+  margin-bottom: 5px;
+}
+
+.contact-button {
+  margin-right: 15px;
+}
+
+.btn-row {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 5px;
+}
+
+.navbar-collapse {
+  justify-content: center;
+}
+
+.navbar-toggler {
+    border: 0;
+}
