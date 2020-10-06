@@ -11,6 +11,12 @@ body {
   height: 60px;
 }
 
+img {
+    vertical-align: middle;
+    border-style: none;
+    border-radius: 50%;
+}
+
 .navbarNAV {
   text-align: right;
   float: right;
