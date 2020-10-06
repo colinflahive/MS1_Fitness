@@ -4,7 +4,7 @@ body {
   background-color: #0a0236;
   font-family: Lato;
   margin: 0px;
-  padding: 0px;
+  padding-top: 10%;
 }
 
 .navbar-brand img {
@@ -71,4 +71,101 @@ h1.logo span {
 
 .navbar-toggler {
     border: 0;
+}
+
+/*-------------------------Quotes------------------*/
+
+.blockquote {
+  font-size: 25px;
+}
+.motivation-heading {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.blockquote span {
+  color: #eb2a2a;
+}
+
+.h3, h3 {
+    font-size: 1.75rem;
+    color: #fafafa;
+}
+
+/*--------Footer--------*/
+p {
+  color: #999;
+  min-height: 40px;
+}
+
+h2 {
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+}
+
+.footer-top {
+  background: rgb(128, 4, 4);
+  padding: 10px 0px;
+  color: #fafafa;
+}
+
+.row {
+  padding-bottom: 10px;
+  text-align: center;
+  padding: 15px;
+}
+.address-section h2 {
+  font-family: Lato;
+  color: #fff;
+  letter-spacing: 3px;
+  margin: 10px 0;
+  text-transform: uppercase;
+}
+.address-section {
+  font-size: 10px;
+  width: 100%;
+  color: #fafafa;
+  text-align: center;
+}
+
+.social-section h2 {
+  font-family: Lato;
+  color: #fff;
+  margin: 10px 0;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+a {
+  padding-bottom: 10px;
+}
+
+.social-section i {
+  background: #494848;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.social-section a i {
+  font-size: 20px;
+  color: #fff;
+  padding: 10px 12px;
+}
+
+/*--FOOTER--*/
+
+.contact-section h2 {
+  font-family: Lato;
+  color: #fff;
+  letter-spacing: 3px;
+  margin: 10px 0;
+  text-transform: uppercase;
+}
+
+.contact-section p {
+  font-size: 10px;
+  color: #fafafa;
+  text-align: center;
 }
