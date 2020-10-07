@@ -11,8 +11,6 @@ body {
   height: 60px;
 }
 
-
-
 .navbarNAV {
   text-align: right;
   float: right;
@@ -108,6 +106,24 @@ h1.logo span {
 img {
     vertical-align: middle;
     border-style: none;
+}
+
+
+/*----------Cards----------*/
+
+.card-body {
+  padding: 0.5rem;
+}
+
+.container {
+        width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
 }
 
 /*--------Footer--------*/
