@@ -11,11 +11,7 @@ body {
   height: 60px;
 }
 
-img {
-    vertical-align: middle;
-    border-style: none;
-    border-radius: 50%;
-}
+
 
 .navbarNAV {
   text-align: right;
@@ -83,6 +79,7 @@ h1.logo span {
 .blockquote {
   font-size: 25px;
 }
+
 .motivation-heading {
   font-size: 20px;
   text-transform: uppercase;
@@ -94,6 +91,23 @@ h1.logo span {
 .h3, h3 {
     font-size: 1.75rem;
     color: #fafafa;
+}
+
+/*-------------------------Carousel------------------*/
+
+.carousel-item img {
+  width: 100%;
+}
+
+.offers {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 20px;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
 }
 
 /*--------Footer--------*/
