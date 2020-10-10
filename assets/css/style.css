@@ -8,9 +8,12 @@ body {
 }
 
 .navbar-brand img {
-  height: 60px;
+    position: relative;
+    width: 70px;
+    left: 15px;
+    background-size: contain;
+	
 }
-
 .navbarNAV {
   text-align: right;
   float: right;
@@ -78,17 +81,8 @@ h1.logo span {
   font-size: 25px;
 }
 
-.motivation-heading {
-  font-size: 20px;
-  text-transform: uppercase;
-}
 .blockquote span {
   color: #eb2a2a;
-}
-
-.h3, h3 {
-    font-size: 1.75rem;
-    color: #fafafa;
 }
 
 /*-------------------------Carousel------------------*/
@@ -280,9 +274,15 @@ form input {
     background-color: #007bff;
     border-color: #007bff;
     margin-bottom: 5px;
-    
+    flex: 0 0 100%;
 }
 
+.button-remedy {
+    
+    width: 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
 .opening-hours{
   text-align: center;
   color:gold
