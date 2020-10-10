@@ -204,3 +204,47 @@ a {
   color: #fafafa;
   text-align: center;
 }
+
+/*----------CONTACT Form------------------*/
+
+.offers {
+  -ms-flex: 1 0 0%;
+  flex: 10 0%;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  margin-left: 15px;
+}
+
+.offers .card {
+  width: 25%;  
+}
+
+.contact-header {
+  font-family: Lato;
+  color: #fafafa;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.form-group {
+  color: #fafafa;
+}
+
+.form-group h5 {
+  text-transform: uppercase;
+  color: #fafafa;
+}
+
+.center-form {
+  padding-top: 15px;
+  margin: 0 auto;
+  max-width: 70%;
+}
+
+form input {
+    margin: 5px 0;
+}
