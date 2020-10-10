@@ -7,16 +7,16 @@ body {
   padding-top: 10%;
 }
 
+.navbar {
+	padding: 0;
+}
+
 .navbar-brand img {
     position: relative;
     width: 70px;
     left: 15px;
     background-size: contain;
-	
-}
-.navbarNAV {
-  text-align: right;
-  float: right;
+    border-radius: 50%;
 }
 
 .nav-item a:hover {
@@ -40,28 +40,6 @@ h1.logo span {
   color: #eb2a2a;
 }
 
-.banner {
-  background-color: rgb(204, 106, 106);
-  display: flex;
-  justify-content: space-between;
-}
-
-#cta-buttons .btn {
-  float: right;
-  clear: both;
-  margin-bottom: 5px;
-}
-
-.contact-button {
-  margin-right: 15px;
-}
-
-.btn-row {
-  display: flex;
-  justify-content: space-around;
-  margin: 10px 5px;
-}
-
 .navbar-collapse {
   justify-content: center;
 }
@@ -75,6 +53,23 @@ h1.logo span {
     border: 0;
 }
 
+/*-------------------------ALERT------------------*/
+
+.alert {
+	background: #f0eb5bde;
+	color: black;
+	width: 100%;
+	padding: 5px 10px;
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+    font-family: Inter, sans-serif;
+}
+.alert a {
+	color: black;
+    text-decoration: underline;
+    font-weight: 400;
+}
 /*-------------------------Quotes------------------*/
 
 .blockquote {
@@ -287,3 +282,6 @@ form input {
   text-align: center;
   color:gold
 }
+
+/*----------TIMETABLE------------------*/
+
