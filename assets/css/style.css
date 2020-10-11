@@ -105,7 +105,7 @@ img {
 }
 
 .container {
-        width: 100%;
+    width: 100%;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
@@ -178,8 +178,6 @@ a {
   padding: 10px 12px;
 }
 
-/*--FOOTER--*/
-
 .contact-section h2 {
   font-family: Lato;
   color: #fff;
@@ -207,7 +205,7 @@ a {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
     min-height: 1px;
-    padding: 1.25rem;
+    padding: 1.rem;
     text-align: center;
 }
 
@@ -284,4 +282,21 @@ form input {
 }
 
 /*----------TIMETABLE------------------*/
+
+
+
+/*--Gallery Page--*/
+
+.photos img {
+  
+  border-radius: 4px;
+  padding: 5px;
+  width: 100%;
+  align-content: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  box-shadow: 5px 4px 0px #adb5bd;
+}
 
