@@ -138,21 +138,21 @@ h2 {
   text-align: center;
   padding: 15px;
 }
-.address-section h2 {
+.address h2 {
   font-family: Lato;
   color: #fff;
   letter-spacing: 3px;
   margin: 10px 0;
   text-transform: uppercase;
 }
-.address-section {
+.address {
   font-size: 10px;
   width: 100%;
   color: #fafafa;
   text-align: center;
 }
 
-.social-section h2 {
+.social-icons h2 {
   font-family: Lato;
   color: #fff;
   margin: 10px 0;
@@ -160,25 +160,57 @@ h2 {
   text-transform: uppercase;
 }
 
-a {
-  padding-bottom: 10px;
-}
-
-.social-section i {
-  background: #494848;
+.social-icons i {
+  margin: 0px 10px;
   width: 40px;
-  height: 40px;
-  display: inline-block;
+  height: 40px; 
+  background: #494848; 
+  font-size: 20px;
+  padding: 10px 12px;
   border-radius: 50%;
 }
 
-.social-section a i {
-  font-size: 20px;
-  color: #fff;
-  padding: 10px 12px;
+i.fa-facebook {
+    background: #5252b8;
 }
 
-.contact-section h2 {
+i.fa-twitter {
+    background: #00acee;
+}
+
+i.fa-instagram {
+    background: #ebc803;
+}
+
+i.fa-google-plus {
+    background: #f56228;
+}
+
+i.fa-facebook:hover {
+    color:#5252b8;
+    background: #fafafa;
+    border: 1px solid #5252b8;
+}
+
+i.fa-twitter:hover {
+    color: #00acee;
+    background: #fafafa;    
+    border: 1px solid #00acee;
+}
+
+i.fa-instagram:hover {
+    color: #ebc803;
+    background: #fafafa;
+    border: 1px solid #ebc803;
+}
+
+i.fa-google-plus:hover {
+    color: #f56228;
+    background: #fafafa;
+    border: 1px solid #f56228;
+}
+
+.contact h2 {
   font-family: Lato;
   color: #fff;
   letter-spacing: 3px;
@@ -186,7 +218,7 @@ a {
   text-transform: uppercase;
 }
 
-.contact-section p {
+.contact p {
   font-size: 10px;
   color: #fafafa;
   text-align: center;
