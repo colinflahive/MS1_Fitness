@@ -276,6 +276,18 @@ form input {
     flex: 0 0 100%;
     max-width: 100%;
 }
+
+.col-12 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 0px;
+}
+.row {
+    padding-bottom: 10px;
+    text-align: center;
+    padding: 0px;
+}
 .opening-hours{
   text-align: center;
   color:gold
