@@ -315,8 +315,20 @@ form input {
     box-shadow: 0px 5px 0px 0px #dcbf02
 }
 
+.bg-brown.box-shadow {
+    box-shadow: 0px 5px 0px 0px brown
+}
+
+.bg-dimgray.box-shadow {
+    box-shadow: 0px 5px 0px 0px dimgray
+}
+
 .bg-pink.box-shadow {
     box-shadow: 0px 5px 0px 0px #e82d8b
+}
+
+.bg-indigo.box-shadow {
+    box-shadow: 0px 5px 0px 0px indigo
 }
 
 .bg-purple.box-shadow {
@@ -343,8 +355,20 @@ form input {
     background-color: #f0d001
 }
 
+.bg-brown {
+    background-color: brown
+}
+
+.bg-dimgray {
+    background-color: dimgray
+}
+
 .bg-pink {
     background-color: #ff48a4
+}
+
+.bg-indigo {
+    background-color: indigo
 }
 
 .bg-purple {
