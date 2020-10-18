@@ -1,41 +1,43 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+ ![picture](assets/docs/readme_nav_logo.jpg)  
 
-Welcome colinflahive,
+ ## ATOMIC FITNESS 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+ *_NOTE: Atomic Fitness is fictious business set up for the Code Institute Mile Stone 1 project._*
 
-## Gitpod Reminders
+   Atomic Fitness is a new high end gym and fitness centre established in the heart of the Dublin suburb of Carrickstown in 
+   an effort to meet the growing demand for such an establishment amongst the young adults, families and senior citizens 
+   within the locality.  The large selection of equipment and expansive floor space plus three spacious studios will ensure our
+   guests come and enjoy a envigorating workout.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+   ## User Experience (UX)
 
-A blue button should appear to click: *Make Public*,
+-   ### User Stories:
+    
+    1. Rebecca & Stephen - Made Enquiries To Disucss Membership Plans & Facilities
+    
+    "We contacted the gym via the details outlined on the "Contact Us" page on the website and the staff responded to our query 
+    within an hour, was able to answer all our questions there and then.  Before we went down for our induction we reviewed the 
+    facilities outlined on the Homepage to see if the gym had what we were looking for - and it did."
 
-Another blue button should appear to click: *Open Browser*.
+    2. The Murphy Family - Members and frequent visitors to the gym for the past six months
+    
+    "As we were new to the location, our family were looking for somewhere safe where we could bring the children to 
+    release some of the energy they have built up during the week. My husband and I are able to plan our exercise thanks to the
+    extensive Timetable set out on the website and also with the link attached to the Studio section on the homepage. We also
+    get great use out of the studios for the Kidz Zones exercises over the weekend periods."
+    
+    3. Roger & Joan - Senior Members who tend to exercise at the gym during off peak periods.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+    "Joan was on the internet a couple of months ago and came across Atomic Fitness. When she showed me the images on the Gallery
+    page with other members similar to our age we were reassured we could go down to the gym and not be put off by the other members.
+    We both make great use out of the studio classes and have made new friends with fellow members in the studio classes."
 
-A blue button should appear to click: *Make Public*,
+    
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
