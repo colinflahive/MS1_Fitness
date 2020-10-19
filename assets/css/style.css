@@ -46,6 +46,7 @@ body {
   color: #eb2a2a;
 }
 
+
 .navbar-collapse {
   justify-content: center;
 }
@@ -110,6 +111,16 @@ img {
 .card-body {
   padding: 0.5rem;
 }
+
+.card-title {
+    text-transform: uppercase;
+}
+
+.card-img, .card-img-top {
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+    padding: 5px;
+}    
 
 /*--------Footer--------*/
 p {
