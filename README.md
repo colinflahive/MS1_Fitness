@@ -45,8 +45,8 @@
 ### Typography
 
     The predominant font on the website is Lato with Roboto as the nominated fallback font to ensure the site content will load correctly.
-    For the Atomic Fitness logo, I decided to use something a little different to draw the users eye to the menu bar and the members login
-    icon.
+    For the Atomic Fitness logo, I decided to use something a little different in the form of the "Bangers" font to draw the users eye to 
+    the menu bar and the members login icon.
 
 ### Imagery
 
