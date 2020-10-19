@@ -15,6 +15,17 @@ body {
   padding: 0;
 }
 
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 0.5rem;
+    margin-left: -1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
 .navbar-brand img {
   position: relative;
   width: 50px;
@@ -89,6 +100,11 @@ body {
   color: #eb2a2a;
 }
 
+p {
+    color: #999;
+    min-height: 40px;
+    margin-left: 6%;
+}
 /*-------------------------Carousel------------------*/
 
 .carousel-item img {
@@ -513,4 +529,5 @@ form input {
     font-size: 25px;
     margin-top: 0;
   }
+  
 }
