@@ -1,6 +1,6 @@
  ![picture](assets/docs/readme_nav_logo.jpg)  
 
-![Image](assets/docs/responsive.PNG)
+
 
  ## ATOMIC FITNESS 
 
@@ -11,6 +11,8 @@
    within the locality.  The large selection of equipment and expansive floor space plus three spacious studios will ensure our
    guests come and enjoy a envigorating workout.
 
+
+![Image](assets/docs/responsive.PNG)
 
 
    ## User Experience (UX)
@@ -36,6 +38,30 @@
     page with other members similar to our age we were reassured we could go down to the gym and not be put off by the other members.
     We both make great use out of the studio classes and have made new friends with fellow members in the studio classes."
 
+### Benefits
+
+* User will be able to sign up in and register for classes using the call to action button on each page.
+* The Timetable located on it's own page is colour coordinated for the benefit of the guests for ease of use when deciding what classes
+to attend. In addition there is a link on the Studio Image on the landing page which will take the user directly to the Timetable page.
+
+### Reasons For The Site
+
+* To demonstrate to existing and potential new members the bright, spacious and clean facility that caters for every demographic.
+* Easy to access and use for those that may not be technologically gifted.  The website is laid out in such a manner that they can
+review the facilities, the timetable and a gallery of photographs demonstrating the enjoyment other members get out of the gym.
+
+### Layout
+
+* Neutral non-offensive colours on the background which draws out the contrast of the photographs nicely to give the impression of a 
+bright, clean and friendly gym for all members.
+* The typography is a standard font easy to read for all members and which does not overload the website, the content is kept to a minimum
+so that members are not overloaded with details and information when deciding whether to join or not.
+
+### Members & Potential Members
+
+* The gym intends to target all members of the public to join so that it becomes an integral part of the community where new friendships 
+can begin.  These include families with young children, young professionals and the senior community with the anticipation that classes
+and facilities will be extended to cater for them in the form of ballroom dancing once a week - in the future.
     
 ## Design
  
@@ -91,6 +117,10 @@ studio Timetable as an alternative to having to click on the Timetable menu opti
     + Git was used for version control for this project when using GitHub Gitpod terminal to commit to Git and Push to GitHub. Clear 
     and concise descriptions were included at the Git Commit instruction in order for the user to identify what changes and amendments were
     made to the code in between Push instructions.
+    *   GitHub    
+    
+*   Images 
+    + Images were sourced from unsplash.com, pixabay.com and google/images.
 
 *   Toolur
     + Toolur.com was used to resize and compress images which were included in the carousel on the Hompage along with the images
@@ -115,14 +145,24 @@ studio Timetable as an alternative to having to click on the Timetable menu opti
 The W3C Markup Validator and W3C CSS Validator Services were used to validate each page to ensure there were no syntax errors in 
 the project.
 
-Insert Link For Validator Results
-Insert Link For CSS Validator Results
+* [W3C HTML Validator](https://validator.w3.org/) - Used to test HTML code on the website. All outstanding errors cleared.
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - Used to test the CSS code on the website. All outstanding errors cleared.
 
 ### Further Testing
 
-The website was tested on
+The website was tested on on Firefox, Internet Explorer, Google Chrome, Samsung Android phone and iPhone 11. A fellow student provided
+feedback on the Peer-to-Peer review on Slack to advise that the content just overloaded slightly on the landing page on her device iPhone 6s,
+however, when I went to review on DevTools/Responsive settings, I couldn't see any issue with the iPhone 6 device.
 
 
+## Deployment
+
+* [Atomic Fitness](https://colinflahive.github.io/MS1_Fitness/) website is hosted on the GitHub Integrated Development Environment (IDE)
+
+## Credits
+* Many thanks to all my fellow students on Slack who provided reassurance that MS1 was achievable, in particular Jim Morell @Jim_Lynx_Lead
+* To my mentor Allen Thomas Varghese.
+* And to the very helpful tutors always at the other end of the keyboard who are there to assist in times of emergencies - thank you.
 
 
   
