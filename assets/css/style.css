@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato");
+@import url("https://fonts.googleapis.com/css2?family=Lato:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700");
 
 * {
   margin: 0;
@@ -13,6 +13,16 @@ body {
 
 .navbar {
   padding: 0;
+}
+
+.navbar .container {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: flex-end;
 }
 
 .navbar-brand {
@@ -57,7 +67,6 @@ body {
   color: #eb2a2a;
 }
 
-
 .navbar-collapse {
   justify-content: center;
 }
@@ -67,8 +76,16 @@ body {
   border-color: rgba(255, 255, 255, 0.1);
   flex: auto;
 }
+
 .navbar-toggler {
   border: 0;
+}
+
+btn-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    margin-right: 50px;
 }
 
 /*-------------------------ALERT------------------*/
@@ -123,6 +140,14 @@ img {
 }
 
 /*----------Cards----------*/
+
+.card-header {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #055fc0;
+    color: #fafafa;
+    margin: 4px;
+}
 
 .card-body {
   padding: 0.5rem;
@@ -256,6 +281,10 @@ i.fa-google-plus:hover {
   box-shadow: 5px 4px 0px #adb5bd;
 }
 
+.photos {
+    margin-top: 80px;
+}
+
 /*----------CONTACT Form------------------*/
 
 .card-header {
@@ -266,7 +295,6 @@ i.fa-google-plus:hover {
 }
 .card {
   position: relative;
-  display: -ms-flexbox;
   display: flex;
   -ms-flex-direction: column;
   flex-direction: column;
@@ -275,7 +303,7 @@ i.fa-google-plus:hover {
   background-color: #fff;
   background-clip: border-box;
   border-radius: 0.025rem;
-
+  height: 100%;
 }
 
 .card-body {
