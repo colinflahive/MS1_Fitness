@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <header>
+  <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
@@ -22,10 +22,10 @@
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
 
     <title>Atomic Fitness</title>
-  </header>
+  </head>
 
   <body>
-    <!---------------NAVBAR MENU SECTION--------------->
+    <!--NAVBAR MENU SECTION-->
 
     <nav class="navbar bg-dark navbar-dark navbar-expand-md fixed-top">
       <a href="index.html" class="navbar-brand">
@@ -74,16 +74,17 @@
       </div>
     </nav>
 
-    <!----PROMOTION Alert START------>
+    <!--PROMOTION-->
 
     <div class="alert">
       Get In Touch To Hear More About
       <a href="#">Our Limited Post COVID-19 Offer!</a>
     </div>
 
-    <!----PROMOTION Alert END------>
 
-    <!-------------------------Cards------------------>
+
+    <!--Cards-->
+
     <section>
       <div class="container mt-3">
         <div class="offers">
@@ -249,7 +250,7 @@
         </div>
       </div>
     </footer>
-    <!-----Modal----->
+    <!--Modal-->
 
     <div class="modal" tabindex="-1" id="signInModal">
       <div class="modal-dialog">
@@ -268,25 +269,12 @@
           <div class="modal-body">
             <form>
               <div class="form-group">
-                <label for="exampleInputEmail1">Email address</label>
-                <input
-                  type="email"
-                  class="form-control"
-                  id="password"
-                  aria-describedby="emailHelp"
-                  placeholder="enter email"
-                  required
-                />
+                <label for="inputemail">Email address</label>
+                <input type="email" class="form-control" id="inputemail" placeholder="enter email" required />
               </div>
               <div class="form-group">
-                <label for="exampleInputPassword1">Password</label>
-                <input
-                  type="password"
-                  class="form-control"
-                  id="inputpassword"
-                  placeholder="enter password"
-                  required
-                />
+                <label for="inputpassword">Password</label>
+                <input type="password" class="form-control" id="inputpassword" placeholder="enter password" required />
               </div>
               <button type="submit" class="btn btn-success">Submit</button>
             </form>

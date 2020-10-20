@@ -115,8 +115,8 @@ studio Timetable as an alternative to having to click on the Timetable menu opti
 The W3C Markup Validator and W3C CSS Validator Services were used to validate each page to ensure there were no syntax errors in 
 the project.
 
-    + Insert Link For Validator Results
-    + Insert Link For CSS Validator Results
+Insert Link For Validator Results
+Insert Link For CSS Validator Results
 
 ### Further Testing
 
