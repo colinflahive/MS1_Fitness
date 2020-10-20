@@ -141,6 +141,10 @@ img {
 
 /*----------Cards----------*/
 
+.contact-card {
+    width: 18rem;
+}
+
 .card-header {
     text-align: center;
     text-transform: uppercase;
