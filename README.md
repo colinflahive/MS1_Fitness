@@ -1,5 +1,7 @@
  ![picture](assets/docs/readme_nav_logo.jpg)  
 
+![Image](assets/docs/responsive.PNG)
+
  ## ATOMIC FITNESS 
 
  *_NOTE: Atomic Fitness is fictious business set up for the Code Institute Mile Stone 1 project._*
@@ -8,6 +10,7 @@
    an effort to meet the growing demand for such an establishment amongst the young adults, families and senior citizens 
    within the locality.  The large selection of equipment and expansive floor space plus three spacious studios will ensure our
    guests come and enjoy a envigorating workout.
+
 
 
    ## User Experience (UX)
@@ -58,30 +61,14 @@ to get a better view of what is on offer for members.
 
 ### Wireframes
 
--   Layout of Mile Stone Project 1 Wireframe outlined in the attached link 
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[wireframes](https://github.com/colinflahive/MS1_Fitness/blob/master/assets/docs/Wireframes.pdf)
 
 ### Features
 
-    The Google developer tools facilities were used to ensure the website was responsive and loaded to alternative devices correctly.
+The Google developer tools facilities were used to ensure the website was responsive and loaded to alternative devices correctly.
 
-    There is a link to the Timetable embedded in to the text on the card for the Studio on the Homepage which will bring the user to the 
-    studio Timetable as an alternative to having to click on the Timetable menu option.
+There is a link to the Timetable embedded in to the text on the card for the Studio on the Homepage which will bring the user to the 
+studio Timetable as an alternative to having to click on the Timetable menu option.
 
 
 
@@ -91,6 +78,49 @@ to get a better view of what is on offer for members.
 *   CSS3
 *   Bootstrap 4
 
+### Frameworks | Libraries | Programs Used
+
+*   Balsamiq
+    + The Balsamiq software was used to draft my wireframe in order to get an outline of the website I was looking to draft.
+    During the process it was referred to on a number of occasions in order to determine if any changes were to be made to the initial outlay.
+
+*   GitHub    
+    + GitHub was the preferred Integrated Development Environment (IDE) for this project was used used to store my code each
+    time it there was a Git performed. 
+
+    + Git was used for version control for this project when using GitHub Gitpod terminal to commit to Git and Push to GitHub. Clear 
+    and concise descriptions were included at the Git Commit instruction in order for the user to identify what changes and amendments were
+    made to the code in between Push instructions.
+
+*   Toolur
+    + Toolur.com was used to resize and compress images which were included in the carousel on the Hompage along with the images
+    on theGallery page of the website. Very convenient and easy to use.
+
+*   JQuery
+    + This was used with Bootstrap in order to make aspects of the website responsive on different devices.
+
+*   Google Fonts
+    + The Google Fonts library was used to select the font for the main body of the website along with something distinctive for the logo
+    on the Navbar.
+
+*   Bootstrap 4
+    + Bootstrap was used extensively throughout the development of the website in order to assist with the layout which I was
+    looking for.  There were slight modifications made to the templates used in order to finalise the styling I was looking for.
+
+*   Fancyapps
+    + Sourced on one of the forums on Slack and used experimentally for the carousel on the homepage.
+
+### Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate each page to ensure there were no syntax errors in 
+the project.
+
+    + Insert Link For Validator Results
+    + Insert Link For CSS Validator Results
+
+### Further Testing
+
+The website was tested on
 
 
 
