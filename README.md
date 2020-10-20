@@ -154,15 +154,22 @@ The website was tested on on Firefox, Internet Explorer, Google Chrome, Samsung 
 feedback on the Peer-to-Peer review on Slack to advise that the content just overloaded slightly on the landing page on her device iPhone 6s,
 however, when I went to review on DevTools/Responsive settings, I couldn't see any issue with the iPhone 6 device.
 
+### TO NOTE
+
+There was an issue with the responsiveness to smaller devices with the table on the Timetable page which didn't adjust to the way I wanted 
+it to.  Having attempted to format it in a numer of different ways, I had to stop in order to submit my project on time. Should this issue 
+arise in future projects, this will be noted and more effort will be placed in getting it right.
+
 
 ## Deployment
 
 * [Atomic Fitness](https://colinflahive.github.io/MS1_Fitness/) website is hosted on the GitHub Integrated Development Environment (IDE)
 
 ## Credits
-* Many thanks to all my fellow students on Slack who provided reassurance that MS1 was achievable, in particular Jim Morell @Jim_Lynx_Lead
+* Many thanks to all my fellow students on Slack who provided reassurance that MS1 was achievable, in particular Jim Morell 
+(handle @Jim_Lynx_Lead).
 * To my mentor Allen Thomas Varghese.
-* And to the very helpful tutors always at the other end of the keyboard who are there to assist in times of emergencies - thank you.
+* And to the very helpful Code Institute tutors always at the other end of the keyboard who are there to assist in times of emergencies - thank you.
 
 
   
